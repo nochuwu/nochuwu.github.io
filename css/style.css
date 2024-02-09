@@ -129,6 +129,7 @@ body{
 
 .social-link:hover {
     transform: translateY(-3px);
+}
 .image-container {
     display: flex;
 }
